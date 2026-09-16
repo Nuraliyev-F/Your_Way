@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Sehrli Istanbul - Ekskursion tur (aviabiletsiz)",
+    "slug": "sehli-istanbul",
+    "country": "Turkiya",
+    "city": "Istanbul",
+    "category": "Ekskursion",
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "durationDays": 8,
+    "durationNights": 7,
+    "basePriceUSD": 480,
+    "basePriceUZS": 6144000,
+    "b2bPriceUSD": 440,
+    "rating": 4.9,
+    "availableSeats": 12,
+    "overview": "Istanbulning tarixiy obidalari, Ayasofiya, Moviy masjid, Bosfor bo'ylab kema sayohati va Kapali Charshi bozorlarini o'z ichiga olgan unutilmas ekskursiya.",
+    "dates": [
+      { "id": 101, "range": "20.09.2026 - 27.09.2026", "nights": 7, "seats": 10 },
+      { "id": 102, "range": "27.09.2026 - 04.10.2026", "nights": 7, "seats": 8 },
+      { "id": 103, "range": "05.10.2026 - 12.10.2026", "nights": 7, "seats": 14 }
+    ],
+    "hotels": [
+      { "id": "h1", "name": "Grand Yavuz Hotel 4*", "stars": 4, "extraPriceUSD": 0 },
+      { "id": "h2", "name": "Radisson Blu Pera 5*", "stars": 5, "extraPriceUSD": 180 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Kutib olish va joylashish", "desc": "Istanbul aeroportida kutib olish, mehmonxonaga transfer va bo'sh vaqt." },
+      { "day": 2, "title": "Eski shahar sayohati", "desc": "Sultonahmet maydoni, Ayasofiya masjidi va Topkapi saroyi." },
+      { "day": 3, "title": "Bosfor bo'g'ozi bo'ylab kruiz", "desc": "Kema sayohati, Misr bozori va Galata minorasi." }
+    ],
+    "included": [
+      "Mehmonxonada yashash (nonushta bilan)",
+      "Guruh transferlari (aeroport - mehmonxona - aeroport)",
+      "Rus va o'zbek tilli professional gid xizmati",
+      "Dastur bo'yicha barcha ekskursiyalar"
+    ],
+    "excluded": [
+      "Xalqaro aviachiptalar (alohida buyurtma qilinadi)",
+      "Shaxsiy xarajatlar va qo'shimcha tushlik/kechki ovqatlar",
+      "Tibbiy sug'urta"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tropik Bali va Singapur mo'jizalari",
+    "slug": "bali-singapur",
+    "country": "Indoneziya / Singapur",
+    "city": "Denpasar - Singapur",
+    "category": "Kombinatsiyalangan",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "durationDays": 10,
+    "durationNights": 9,
+    "basePriceUSD": 1250,
+    "basePriceUZS": 16000000,
+    "b2bPriceUSD": 1180,
+    "rating": 5.0,
+    "availableSeats": 6,
+    "overview": "Ubudning yam-yashil guruch dalalari, hind ibodatxonalari, okean sohillari va kelajak shahri Singapur.",
+    "dates": [
+      { "id": 201, "range": "25.09.2026 - 04.10.2026", "nights": 9, "seats": 6 }
+    ],
+    "hotels": [
+      { "id": "h3", "name": "Swiss-Belresort Watu Jimbar 4*", "stars": 4, "extraPriceUSD": 0 },
+      { "id": "h4", "name": "The Westin Resort Nusa Dua 5*", "stars": 5, "extraPriceUSD": 320 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Yetib kelish", "desc": "Bali aeroportida kutib olish va Ubudga yo'l olish." }
+    ],
+    "included": ["4* mehmonxonalar", "Ichki transferlar", "Nonushtalar"],
+    "excluded": ["Aviachipta", "Viza to'lovlari"]
+  },
+  {
+    "id": 3,
+    "title": "Tailand: Bangkok va Pattaya sayohati",
+    "slug": "tailand-bangkok-pattaya",
+    "country": "Tailand",
+    "city": "Bangkok",
+    "category": "Ekskursion va dam olish",
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "durationDays": 8,
+    "durationNights": 7,
+    "basePriceUSD": 620,
+    "basePriceUZS": 7936000,
+    "b2bPriceUSD": 580,
+    "rating": 4.8,
+    "availableSeats": 15,
+    "overview": "Tailandning qadimiy ibodatxonalari, mashhur suzuvchi bozorlar va marjon orollariga sayohat.",
+    "dates": [
+      { "id": 301, "range": "18.09.2026 - 25.09.2026", "nights": 7, "seats": 15 }
+    ],
+    "hotels": [
+      { "id": "h5", "name": "Amari Pattaya 4*", "stars": 4, "extraPriceUSD": 0 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Kutib olish", "desc": "Suvarnabhumi aeroportida kutib olish va Pattayaga transfer." }
+    ],
+    "included": ["Mehmonxona", "Gid", "Nonushtalar", "Transfer"],
+    "excluded": ["Aviachiptalar"]
+  }
+]
